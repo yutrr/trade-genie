@@ -1,0 +1,3 @@
+# Project exclude paths
+/trade-genie-gateway/target/
+/trade-genie-user/target/
